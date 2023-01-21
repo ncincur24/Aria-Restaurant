@@ -1,0 +1,114 @@
+https://www.seoptimer.com/
+https://files.000webhost.com/
+
+
+<!-- <div id="main"> -->
+			<!-- <div class="ourmenu"> -->
+				<!-- <div class="left-side"> -->
+					<!-- <img src="img/breakfast4.jpg" alt="breakfast3" /> -->
+				<!-- </div> -->
+				<!-- <div class="right-side"> -->
+					<!-- <h3>Breakfast menu</h3> -->
+					<!-- <div class="line2"></div> -->
+					<!-- <div class="menu-in"> -->
+						<!-- <div class="nm"> -->
+							<!-- <div class="in-picture"> -->
+								<!-- <img src="img/breakfast5.jpg" alt="breakfast5" /> -->
+								<!-- <div class="price"> -->
+								<!-- <h4>$3.70</h4> -->
+								<!-- </div> -->
+							<!-- </div> -->
+							<!-- <div class="text"> -->
+								<!-- <h4>Pencakes with strawberries</h4> -->
+								<!-- <p>One of our restaurant specialty, delicious strawberries are melting in youer mouth. You won't regret it.</p> -->
+							<!-- </div> -->
+						<!-- </div> -->
+						<!-- <div class="nm"> -->
+							<!-- <div class="in-picture"> -->
+								<!-- <img src="img/breakfast6.jpg" alt="breakfast6" /> -->
+								<!-- <div class="price"> -->
+								<!-- <h4>$4.40</h4> -->
+								<!-- </div> -->
+							<!-- </div> -->
+							<!-- <div class="text"> -->
+								<!-- <h4>Fruit mix</h4> -->
+								<!-- <p>We prepared best fruit mix for you. Healty fruit is one of the best your way to start you day</p> -->
+							<!-- </div> -->
+						<!-- </div> -->
+					<!-- </div> -->
+				<!-- </div>	 -->
+			<!-- </div> -->
+			<!-- <div class="ourmenu"> -->
+				<!-- <div class="left-side"> -->
+					<!-- <img src="img/lunch3.jpg" alt="lunch3" /> -->
+				<!-- </div> -->
+				<!-- <div class="right-side"> -->
+					<!-- <h3>Lunch menu</h3> -->
+					<!-- <div class="line2"></div> -->
+					<!-- <div class="menu-in"> -->
+						<!-- <div class="nm"> -->
+							<!-- <div class="in-picture"> -->
+								<!-- <img src="img/lunch4.jpg" alt="lunch4" /> -->
+								<!-- <div class="price"> -->
+								<!-- <h4>$7.70</h4> -->
+								<!-- </div> -->
+							<!-- </div> -->
+							<!-- <div class="text"> -->
+								<!-- <h4>Pizza</h4> -->
+								<!-- <p>Our pizza masters are preparing one of the best pizzas in city. You simply have to try it.</p> -->
+							<!-- </div> -->
+						<!-- </div> -->
+						<!-- <div class="nm"> -->
+							<!-- <div class="in-picture"> -->
+								<!-- <img src="img/lunch5.jpg" alt="lunch5" /> -->
+								<!-- <div class="price"> -->
+									<!-- <h4>$6.10</h4> -->
+								<!-- </div> -->
+							<!-- </div> -->
+							<!-- <div class="text"> -->
+								<!-- <h4>Vegan meel</h4> -->
+								<!-- <p>You are vegan? No problem, we have our special vegan menu.</p> -->
+							<!-- </div> -->
+						<!-- </div> -->
+					<!-- </div> -->
+				<!-- </div> -->
+			<!-- </div> -->
+			<!-- <div class="ourmenu"> -->
+				<!-- <div class="left-side"> -->
+					<!-- <img src="img/dinner3.jpg" alt="dinner3" /> -->
+				<!-- </div> -->
+				<!-- <div class="right-side"> -->
+					<!-- <h3>Dinner menu</h3> -->
+					<!-- <div class="line2"></div> -->
+					<!-- <div class="menu-in"> -->
+						<!-- <div class="nm"> -->
+							<!-- <div class="in-picture"> -->
+								<!-- <img src="img/dinner4.jpg" alt="dinner4" /> -->
+								<!-- <div class="price"> -->
+									<!-- <h4>$5.65</h4> -->
+								<!-- </div> -->
+							<!-- </div> -->
+							<!-- <div class="text"> -->
+								<!-- <h4>Pasta</h4> -->
+								<!-- <p>Fresh italian pasta with mushroom sauce is one of the best ways to finish exausting day. We will do our best to prepare it.</p> -->
+							<!-- </div> -->
+						<!-- </div> -->
+						<!-- <div class="nm"> -->
+							<!-- <div class="in-picture"> -->
+								<!-- <img src="img/dinner5.jpg" alt="dinner5" /> -->
+								<!-- <div class="price"> -->
+									<!-- <h4>$4.00</h4> -->
+								<!-- </div> -->
+							<!-- </div> -->
+							<!-- <div class="text"> -->
+								<!-- <h4>Sandwich</h4> -->
+								<!-- <p>Classic dinner, sandwich with baked bacon. You are going ti love this sandwich, it's full of healty ingredients.</p> -->
+							<!-- </div> -->
+						<!-- </div> -->
+					<!-- </div> -->
+				<!-- </div> -->
+				
+			<!-- </div> -->
+			
+		<!-- </div>	 -->
+		

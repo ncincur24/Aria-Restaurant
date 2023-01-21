@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Aria Restaurant Sydney</title>
+		<link>https://ariarestaurant.000webhostapp.com/</link>
+		<description>One of the best restaurants in sydney, with tradition over 20 years. We make delicious food every day just for you.</description>
+		<item>
+			<title>HOME</title>
+			<link>https://ariarestaurant.000webhostapp.com/index.html</link>
+			<description>Order food, book you table.</description>
+		</item>
+		<item>
+			<title>MENU</title>
+			<link>https://ariarestaurant.000webhostapp.com/menu.html</link>
+			<description>Here you can se our food, we have a very wide choice of different food. </description>
+		</item>
+		<item>
+			<title>CHEFS</title>
+			<link>https://ariarestaurant.000webhostapp.com/chefs.html</link>
+			<description>Meet our chefs who are making delicious food in our restaurant.</description>
+		</item>
+		<item>
+			<title>GALLERY</title>
+			<link>https://ariarestaurant.000webhostapp.com/galery.html</link>
+			<description>Photos of our restaurant</description>
+		</item>
+		<item>
+			<title>CONTACT</title>
+			<link>https://ariarestaurant.000webhostapp.com/contact.html</link>
+			<description>You can contact on our emial if phone if you have any questions.</description>
+		</item>
+		<item>
+			<title>ABOUT AUTHOR</title>
+			<link>https://ariarestaurant.000webhostapp.com/contact.html</link>
+			<description>Page about authoe who made this site.</description>
+		</item>
+	</channel>
+</rss>
